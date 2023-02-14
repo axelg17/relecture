@@ -2,7 +2,7 @@
 
 ## 1/ Avant  le contrôle
 
-- je sors ma clée usb
+- je sors ma clé usb
 - je crée la page
 - je mets le correcteurs d’orthographe
 - gestion du stress et mise en concentration: à répondre
