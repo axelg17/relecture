@@ -23,7 +23,7 @@
 ### pour mieux répondre
 
 - Je relis précisément, tranquillement la question
-- je mets le bon numéro de question
+- j'écris le bon numéro de question
 - je dois être plus descriptif quand je parle des documents en partant du plus général au détail
 - en cas de doute, les autres documents peuvent être une aide
 - arriver à regrouper toutes les informations :
