@@ -22,7 +22,7 @@
 
 ### pour mieux répondre
 
-- Je relis la précisément, tranquillement la question
+- Je relis précisément, tranquillement la question
 - je mets le bon numéro de question
 - je dois être plus descriptif quand je parle des documents en partant du plus général au détail
 - en cas de doute, les autres documents peuvent être une aide
@@ -42,7 +42,7 @@
 ### Présentation
 - je pense bien à la ponctuation
 - je fais la mise en forme du document
-- je regarde s'il mange des mots
+- je regarde s'il manque des mots
 - je corrige les fautes d'orthographe
 
 ### Contenu des réponses
